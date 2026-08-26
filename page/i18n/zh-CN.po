@@ -1,0 +1,17 @@
+msgid "welcome"
+msgstr "点击提问来和柴郡聊天喵~"
+
+msgid "btn_ask"
+msgstr "提问"
+
+msgid "btn_clear"
+msgstr "清空"
+
+msgid "err_no_config"
+msgstr "未配置 API，请在 Zepp App 设置中填写"
+
+msgid "err_conn_failed"
+msgstr "连接失败"
+
+msgid "err_prefix"
+msgstr "错误："

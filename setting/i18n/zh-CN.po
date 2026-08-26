@@ -1,0 +1,65 @@
+msgid "settings_title"
+msgstr "AI 对话设置"
+
+msgid "section_provider"
+msgstr "服务商预设"
+
+msgid "select_provider"
+msgstr "选择 AI 服务商"
+
+msgid "hint_provider"
+msgstr "切换后自动填充地址和模型，API Key 保留"
+
+msgid "section_api"
+msgstr "API 配置"
+
+msgid "field_base_url"
+msgstr "接口地址 (Base URL)"
+
+msgid "hint_base_url"
+msgstr "OpenAI 兼容格式地址，如 https://api.deepseek.com"
+
+msgid "field_api_key"
+msgstr "API Key"
+
+msgid "hint_api_key"
+msgstr "以 sk- 开头，保存后自动去除引号空格"
+
+msgid "field_model"
+msgstr "模型 (Model)"
+
+msgid "hint_model"
+msgstr "如 deepseek-v4-flash"
+
+msgid "section_advanced"
+msgstr "高级"
+
+msgid "toggle_thinking"
+msgstr "深度思考 (DeepSeek)"
+
+msgid "hint_thinking"
+msgstr "开启后回复更智能但耗时更长，仅显示最终回答"
+
+msgid "select_effort"
+msgstr "思考强度 (需开启深度思考)"
+
+msgid "select_lang"
+msgstr "回复语言"
+
+msgid "lang_auto"
+msgstr "跟随提问"
+
+msgid "lang_zh"
+msgstr "中文"
+
+msgid "lang_en"
+msgstr "English"
+
+msgid "field_system_prompt"
+msgstr "角色提示词 (自定义人设)"
+
+msgid "hint_system_prompt"
+msgstr "留空使用默认人设，填入后替换内置设定"
+
+msgid "footer_hint"
+msgstr "修改自动保存，保存后打开手表应用即可使用"

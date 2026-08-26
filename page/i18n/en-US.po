@@ -1,0 +1,17 @@
+msgid "welcome"
+msgstr "Tap ASK to chat with Cheshire~"
+
+msgid "btn_ask"
+msgstr "ASK"
+
+msgid "btn_clear"
+msgstr "CLEAR"
+
+msgid "err_no_config"
+msgstr "No API config. Set it in Zepp App settings."
+
+msgid "err_conn_failed"
+msgstr "Connection failed"
+
+msgid "err_prefix"
+msgstr "Error: "

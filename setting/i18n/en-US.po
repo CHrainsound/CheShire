@@ -1,0 +1,65 @@
+msgid "settings_title"
+msgstr "AI Chat Settings"
+
+msgid "section_provider"
+msgstr "Provider Presets"
+
+msgid "select_provider"
+msgstr "Select AI provider"
+
+msgid "hint_provider"
+msgstr "Switching fills URL and model automatically, API Key is kept"
+
+msgid "section_api"
+msgstr "API Configuration"
+
+msgid "field_base_url"
+msgstr "Base URL"
+
+msgid "hint_base_url"
+msgstr "OpenAI-compatible address, e.g. https://api.deepseek.com"
+
+msgid "field_api_key"
+msgstr "API Key"
+
+msgid "hint_api_key"
+msgstr "Starts with sk-, quotes and spaces are trimmed on save"
+
+msgid "field_model"
+msgstr "Model"
+
+msgid "hint_model"
+msgstr "e.g. deepseek-v4-flash"
+
+msgid "section_advanced"
+msgstr "Advanced"
+
+msgid "toggle_thinking"
+msgstr "Deep Thinking (DeepSeek)"
+
+msgid "hint_thinking"
+msgstr "Smarter but slower replies, only final answer is shown"
+
+msgid "select_effort"
+msgstr "Reasoning Effort (requires Deep Thinking)"
+
+msgid "select_lang"
+msgstr "Reply Language"
+
+msgid "lang_auto"
+msgstr "Auto"
+
+msgid "lang_zh"
+msgstr "Chinese"
+
+msgid "lang_en"
+msgstr "English"
+
+msgid "field_system_prompt"
+msgstr "Persona Prompt (custom character)"
+
+msgid "hint_system_prompt"
+msgstr "Leave empty for default persona, filling replaces the built-in one"
+
+msgid "footer_hint"
+msgstr "Changes save automatically. Open the watch app after saving."
